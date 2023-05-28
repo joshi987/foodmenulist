@@ -1,0 +1,14 @@
+
+
+.form{
+    border: solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 180px;
+    width: 30vh;
+    margin: auto;
+    border-radius: 0.5rem;
+    
+    
+}
