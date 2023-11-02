@@ -54,7 +54,7 @@ useEffect(()=>{
 
 if(isLoading){
   return <section className={classes.MealsLoading}>
-    <p>Loading.....</p>
+    <p style={{margin:"100px",color:"red"}}>Loading.....</p>
   </section>
 }
 
